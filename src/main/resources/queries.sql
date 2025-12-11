@@ -1,0 +1,29 @@
+-- 1
+--  Devuelve un listado con el primer apellido, segundo apellido y el nombre de todos los alumnos. El listado deberá estar ordenado alfabéticamente de menor a mayor por el primer apellido, segundo apellido y nombre.
+--
+--  2
+--  Averigua el nombre y los dos apellidos de los alumnos que no han dado de alta su número de teléfono en la base de datos.
+--
+--  3
+--  Devuelve el listado de los alumnos que nacieron en 1999.
+--
+--  4
+--  Devuelve el listado de profesores que no han dado de alta su número de teléfono en la base de datos y además su nif termina en K.
+--
+--  5
+--  Devuelve el listado de las asignaturas que se imparten en el primer cuatrimestre, en el tercer curso del grado que tiene el identificador 7.
+--
+--  6
+--  Devuelve un listado con el nombre de las asignaturas, año de inicio y año de fin del curso escolar del alumno con nif 26902806M.
+--
+--  7
+--  Devuelve un listado con el nombre de todos los departamentos que tienen profesores que imparten alguna asignatura en el Grado en Ingeniería Informática (Plan 2015).
+--
+--  8
+--  Devuelve un listado con todos los alumnos que se han matriculado en alguna asignatura durante el curso escolar 2018/2019.
+--
+--  9
+--  Devuelve un listado con los profesores que no imparten ninguna asignatura.
+--
+--  10
+--  Devuelve un listado con las asignaturas que no tienen un profesor asignado.

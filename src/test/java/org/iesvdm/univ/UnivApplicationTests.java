@@ -36,21 +36,6 @@ import org.springframework.boot.test.context.SpringBootTest;
  10
  Devuelve un listado con las asignaturas que no tienen un profesor asignado.
 
- 11
- Devuelve un listado con todos los departamentos que tienen alguna asignatura que no se haya impartido en ningún curso escolar. El resultado debe mostrar el nombre del departamento y el nombre de la asignatura que no se haya impartido nunca.
-
- 12
- Calcula cuántos profesores hay en cada departamento. El resultado sólo debe mostrar dos columnas, una con el nombre del departamento y otra con el número de profesores que hay en ese departamento. El resultado sólo debe incluir los departamentos que tienen profesores asociados y deberá estar ordenado de mayor a menor por el número de profesores.
-
- 13
- Devuelve un listado con el nombre de todos los grados existentes en la base de datos y el número de asignaturas que tiene cada uno, de los grados que tengan más de 40 asignaturas asociadas
-
- 15
- Devuelve un listado con los profesores que tienen un departamento asociado y que no imparten ninguna asignatura.
-
- 16
- Devuelve un listado con las asignaturas que no tienen un profesor asignado.
-
  */
 
 @SpringBootTest
